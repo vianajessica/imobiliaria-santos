@@ -3,3 +3,128 @@ body {
     font-family: Tahoma;
 }
 
+div {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+.secao-topo {
+    background-color:#afddfb;
+}
+
+.img-logo {
+    width: 150px;
+    margin-bottom: 5px;
+}
+
+  
+.paragrafo-topo {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.secao-banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.span-destaque {
+    font-weight: bold;
+}
+    
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.link-topo {
+    color: #1d1d1d;
+    font-size: 18px;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.imagem {
+    width: 450px;
+}
+
+.texto-azul {
+    color: #1d80c1
+}
+
+.secao{
+    background-color: #1d80c1;
+}
+
+.subtitulo-branco {
+    color: #ffffff;
+    }
+
+.subtitulo{
+    font-size: 28px;
+    line-height: 42px;
+}    
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.paragrafo-servicos{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.lista-servicos {
+    margin: 40px auto 40px;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.paragrafo-contato {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.lista-contato {
+    width: 210px;
+    margin: 40px auto 40px;
+    list-style: none;    
+}
+
+.item-lista {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
